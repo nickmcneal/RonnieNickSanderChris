@@ -1,3 +1,3 @@
 # RonnieSanderChrisNick
 
-A project to classify twitter accounts as bots or non-bots
+A machine learning project to classify Twitter accounts as bots or non-bots.
